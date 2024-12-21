@@ -1,0 +1,22 @@
+[
+          {
+                  "Name":"Samir Uraon",
+                  "Dept":"Information Technology",
+                  "Roll":"002411001078",
+                  "Institude":"Jadavpur University",
+                  "photo":"photo.jpeg"
+          },
+          {
+                  "Name":"Samir Roy",
+                  "Roll":"002411001079",
+                  "Dept":"Power Engineering",
+                  "Institude":"Jadavpur University",
+                  "photo":"photo.jpeg"
+          },
+          {
+                  "Name":"Samir Kisku",
+                  "Dept":"Information Technology",
+                  "Roll":"002411001078",
+                  "Institude":"Jadavpur University",
+                  "photo":"photo.jpeg"
+          }]
